@@ -8,5 +8,9 @@ plugin= {"html:Reports/HTMLReport.html",
          "json:Reports/JSONReport.html",
          "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
 public class RunnerClass extends AbstractTestNGCucumberTests {
+	private void Sysout() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
